@@ -1,5 +1,5 @@
 # 📊 DAX Depo – Advanced DAX Calculations in Power BI
-
+VIDEO LINK: https://drive.google.com/file/d/1Jelkc1xB9CjNhdqHgklYgBxADlAhl9gT/view?usp=sharing
 ## 📌 Project Overview
 The **DAX Depo** project focuses on building a robust backend data model and performing advanced analytical calculations using **DAX (Data Analysis Expressions)** in Power BI.
 
